@@ -7,14 +7,7 @@
  <a href="https://godocs.io/github.com/forensicanalysis/fsdoublestar"><img src="https://godocs.io/github.com/forensicanalysis/fsdoublestar?status.svg" alt="doc" /></a>
 </p>
 
-
-The fsdoublestar project contains a collection of packages to parse file
-systems, archives and similar data. The included packages can be used to
-access disk images of with different partitioning and file systems.
-Additionally, file systems for live access to the currently mounted file system
-and registry (on Windows) are implemented.
-
-All filesystems implement [io/fs](https://tip.golang.org/pkg/io/fs).
+This package implements recursive directory globbing via `**` for Go's [io/fs](https://tip.golang.org/pkg/io/fs).
 
 ## Example
 
