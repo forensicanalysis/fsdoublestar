@@ -2,7 +2,7 @@
 
 <p  align="center">
  <a href="https://github.com/forensicanalysis/fsdoublestar/actions"><img src="https://github.com/forensicanalysis/fsdoublestar/workflows/CI/badge.svg" alt="build" /></a>
- <a href="https://codecov.io/gh/forensicanalysis/fsdoublestar"><img src="https://codecov.io/gh/forensicanalysis/fsdoublestar/branch/master/graph/badge.svg" alt="coverage" /></a>
+ <a href="https://codecov.io/gh/forensicanalysis/fsdoublestar"><img src="https://codecov.io/gh/forensicanalysis/fsdoublestar/branch/main/graph/badge.svg" alt="coverage" /></a>
  <a href="https://goreportcard.com/report/github.com/forensicanalysis/fsdoublestar"><img src="https://goreportcard.com/badge/github.com/forensicanalysis/fsdoublestar" alt="report" /></a>
  <a href="https://godocs.io/github.com/forensicanalysis/fsdoublestar"><img src="https://godocs.io/github.com/forensicanalysis/fsdoublestar?status.svg" alt="doc" /></a>
 </p>
