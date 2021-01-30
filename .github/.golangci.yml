@@ -54,11 +54,11 @@ linters:
     - govet # Vet examines Go source code and reports suspicious constructs, such as Printf calls whose arguments do not align with the format string
     - ineffassign # Detects when assignments to existing variables are not used
     - interfacer # Linter that suggests narrower interface types
-    - lll # Reports long lines
+    # - lll # Reports long lines
     - maligned # Tool to detect Go structs that would take less memory if their fields were sorted
     - misspell # Finds commonly misspelled English words in comments
     - nakedret # Finds naked returns in functions greater than a specified function length
-    - nestif # Reports deeply nested if statements
+    # - nestif # Reports deeply nested if statements
     - prealloc # Finds slice declarations that could potentially be preallocated
     - rowserrcheck # checks whether Err of rows is checked successfully
     - scopelint # Scopelint checks for unpinned variables in go programs
@@ -72,7 +72,7 @@ linters:
     - unused # Checks Go code for unused constants, variables, functions and types
     - varcheck # Finds unused global variables and constants
     - whitespace # Tool for detection of leading and trailing whitespace
-    - wsl # Whitespace Linter - Forces you to use empty lines!
+    # - wsl # Whitespace Linter - Forces you to use empty lines!
 
 issues:
   exclude-use-default: false
