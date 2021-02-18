@@ -1,7 +1,7 @@
 <h1 align="center">fsdoublestar</h1>
 
 <p  align="center">
- <a href="https://codecov.io/gh/forensicanalysis/fsdoublestar"><img src="https://codecov.io/gh/forensicanalysis/fsdoublestar/branch/main/graph/badge.svg" alt="coverage" /></a>
+ <a href="https://codecov.io/gh/forensicanalysis/fsdoublestar"><img src="https://codecov.io/gh/forensicanalysis/fsdoublestar/branch/master/graph/badge.svg" alt="coverage" /></a>
  <a href="https://godocs.io/github.com/forensicanalysis/fsdoublestar"><img src="https://godocs.io/github.com/forensicanalysis/fsdoublestar?status.svg" alt="doc" /></a>
 </p>
 
